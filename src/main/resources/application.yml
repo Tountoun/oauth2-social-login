@@ -5,6 +5,15 @@ spring:
     user:
       name: gofar
       password: gofar
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Ov23ligreH3iTjWTJvCR
+            client-secret: b8738825a5e0258169478c31524fece416b928f9
+          facebook:
+            client-id: 470881822531759
+            client-secret: d1b3cd1f7e550115a236309e6d8ecd2b
 
 logging:
   pattern:
