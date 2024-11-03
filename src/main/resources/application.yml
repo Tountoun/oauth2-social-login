@@ -14,6 +14,9 @@ spring:
           facebook:
             client-id: 470881822531759
             client-secret: d1b3cd1f7e550115a236309e6d8ecd2b
+gg:
+  jte:
+    development-mode: true
 
 logging:
   pattern:
